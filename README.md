@@ -7,19 +7,6 @@
 
 ---
 
-## Group 2 — Members
-
-| Role | Name |
-|------|------|
-| Coordinator | SEK Sopheak Voatei |
-| Member | THONG Ousaphea |
-| Member | WANG Alicia |
-| Member | RA Veasna |
-| Member | KOUM Soknan |
-| Member | DIN Sokheng |
-
----
-
 ## Project Overview
 
 This project detects **structural breaks** (regime changes) in the daily adjusted closing prices of **10 major aerospace & defence companies** using a combination of:
@@ -178,4 +165,4 @@ The KS test **rejects H₀ for all 10 companies** at the 5% level. Every stock u
 
 ---
 
-If you encounter any issues running the application, feel free to contact soknan.koum@ensiie.eu,  veasna.ra@ensiie.eu and sokheng.din@ensiie.eu
+If you encounter any issues running the application, feel free to contact me via `raveasna15@gmail.com`
